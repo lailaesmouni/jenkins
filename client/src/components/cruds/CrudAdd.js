@@ -118,7 +118,7 @@ function CrudAdd(props) {
 						onClick={handleCancel}
 						className="btn btn-secondary"
 					>
-						Cancell
+						Cancel
 					</button>
 				</div>
 			</form>
